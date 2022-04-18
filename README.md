@@ -1,3 +1,7 @@
+This is a sample project of Disney+ clone
+( _the work is not completed yet it is still in progress_ )
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
